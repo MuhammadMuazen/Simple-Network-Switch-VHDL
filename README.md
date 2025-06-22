@@ -2,7 +2,7 @@
 
 This is a very simple implementaion for a network switch in VHDL. 
 
-It was part of my class in uni so use it how ever you want.
+It was part of my class in uni so use it however you want.
 
 ## Switch Logic You Will Find Here
 
